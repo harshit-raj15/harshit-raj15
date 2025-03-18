@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harshit-raj15
+- 👋 Hi, I’m Harshit
 - 👀 I’m interested in digital and SoC design
 - 💞️ I’m looking to collaborate on above mention projects/research
 - 📫 Reach me at harshitraj@ufl.edu
